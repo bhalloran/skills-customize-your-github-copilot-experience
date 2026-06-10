@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unit-testing",
+      "title": "Unit Testing in Python",
+      "description": "Write pytest tests for a simple Python utility module",
+      "path": "assignments/python-unit-testing",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
